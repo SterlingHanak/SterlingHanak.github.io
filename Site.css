@@ -52,6 +52,19 @@ textarea {
     background-color: firebrick;
     font-size: 40px;
     color: white;
+	border: ridge;
+    border-color: black;
+}
+
+.tech-skills > p {
+	background-color: firebrick;
+	font-size: 25px;
+	color: white;
+	border: ridge;
+	border-color: black;
+	width: 25%;
+	display: inline-block;
+	text-align: center;
 }
 
 .contactHead {
